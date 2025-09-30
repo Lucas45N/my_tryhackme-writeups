@@ -1,0 +1,12 @@
+tryhackme-writeups/
+│
+├── README.md                # Apresentação geral do projeto
+├── writeups/                # Pasta com write-ups diários
+│   ├── 2025-09-30-comandos.md
+│   ├── 2025-10-01-powershell.md
+│   └── ...
+├── cheatsheets/             # Resumos rápidos de comandos
+│   ├── windows_cmd.md
+│   ├── linux_shell.md
+│   └── ...
+└── scripts/                 # Scripts ou anotações extras
